@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<rect width="100" height="100" rx="22" fill="#0B0F14"/>
+<path d="M50 8 86 50 50 92 14 50Z" fill="none" stroke="#FF5C8A" stroke-width="5"/><path d="M30 50h40M50 30v40" stroke="#FF5C8A" stroke-width="3"/>
+<text x="50" y="98" text-anchor="middle" font-family="Arial" font-size="6" fill="#D7DEE8">AuthPath</text>
+</svg>
